@@ -1,3 +1,5 @@
+# New Horizons SMP
+
 ![newHorizons_spawn](https://github.com/NewHorizonsMC/.github/blob/main/spawnAtNight.png)
 
 <div align="center">
