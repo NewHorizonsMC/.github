@@ -10,3 +10,7 @@
 ## [What makes us special?](https://github.com/NewHorizonsMC/.github/blob/main/ourThing.md)
 
 > Find out what sets us apart from other servers, and see how our world changed over time with the conditions we set
+
+## [Community & Discord](https://github.com/NewHorizonsMC/.github/blob/main/communityAndDiscord.md)
+
+> Interested in joining? Click the link above to get started.
