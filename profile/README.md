@@ -33,6 +33,10 @@
 
 > Take a look at the world through a top-down or isometric view!
 
+## Gallery
+
+> Take a gander aat some screenshots from the server, inlduding players' bases and event builds!
+
 ## About Us
 
 > Shows our current staff teams and some quick introductions.
