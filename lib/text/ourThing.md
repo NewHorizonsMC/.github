@@ -12,3 +12,7 @@ The New Horizons Server has always and will always be an SMP Server. We use Plug
 
 
 **The End** - Has been opened for the community. Players are allowed to summon the dragon again, however the outer islands will be closed off until the Overworld road is long enough to warrant us needing elytras to travel efficiently :)
+
+## Enchanced Vanilla
+
+We use some plugins and datapacks to enchance the gameplay and improve some in game tasks and experiences. If you're interested seeing a quick list of the plugins and datapacks we use, [click here](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/pluginsAndDatapacks.md)
