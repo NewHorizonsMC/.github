@@ -25,6 +25,8 @@
 
 ![creativeWorldParkour](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/creativeWorldParkour.png)
 
+--------------------------------------------------------------------------------------
+
 ## New Horizons SMP Wiki
 
 > Venture through here to be guided through some quick how-to's and extra info!
@@ -44,3 +46,5 @@
 ## Contact Us
 
 > totallyrealemailaddress@totallyrealwebsite.org
+
+--------------------------------------------------------------------------------------
