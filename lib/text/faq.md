@@ -29,3 +29,23 @@
 
 **Can I appeal a ban?**
 > Yes, you can always appeal a ban, we feel everyone has the opportunity to change and grow and are willing to hear you out. Just send a DM to @NewHorizonsMC
+
+**Is there a public XP farm?**
+> Not Currently!
+
+**Is there a community marketplace?**
+> The market place is not a specific area. Instead players are allowed to set up shops along the main road going west from spawn.
+
+**Can I /set home?**
+> No, the only teleportation we have is /spawn. We try and stay as close to vanilla as possible.
+
+**Are we allowed to use TNT dupers?**
+> Dupers that do not give any saveable items are allowed, but please do not leave your TNT dupers running non-stop, they do cause lag.
+
+**Can we use auto clickers?**
+> You are allowed to use an auto clicker for AFK farms, but not one that auto targets, during any games or events or against other players.
+
+**How do I become a staff member?**
+> Check out #🤝join-staff in discord
+
+---------------------------------------------------------------------------------------------------------------
