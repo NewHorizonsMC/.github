@@ -2,6 +2,8 @@
 
 ![newHorizons_spawn](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/spawnAtNight.png)
 
+###### If you want to find out more about a topic, click on the link for each header^^
+
 ## [Who are we?](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/whoAreWe.md)
 > We are a semi-vanilla Minecraft server that has a small, established, mature and friendly community of Minecraft players.
 
