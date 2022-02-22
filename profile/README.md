@@ -35,7 +35,7 @@
 
 > Take a look at the world through a top-down or isometric view!
 
-## Gallery
+## [Gallery](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/gallery.md)
 
 > Take a gander aat some screenshots from the server, inlduding players' bases and event builds!
 
