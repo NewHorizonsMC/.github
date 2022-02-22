@@ -15,8 +15,11 @@
 
 > Interested in joining? Click the link above to get started.
 
-![creativeWorldParkour](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/creativeWorldParkour.png)
-
-## Plugins & Datapacks
+## [Plugins & Datapacks](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/pluginsAndDatapacks.md)
 
 > Here's a quick list of some of the plugins/datapacks we use to enhance the vanilla experience.
+
+--------------------------------------------------------------------------------------
+
+![creativeWorldParkour](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/creativeWorldParkour.png)
+
