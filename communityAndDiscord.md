@@ -7,4 +7,4 @@ We have a Discord Server to efficiently communicate with the players outside of 
 ## Join Here
 
 Ready to join? Here's the [discord link](https://discord.gg/BG33g88QVk)
-########## Link not above working? Here's the direct link: https://discord.gg/BG33g88QVk
+> Link not above working? Here's the direct link: https://discord.gg/BG33g88QVk
