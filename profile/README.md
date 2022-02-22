@@ -45,6 +45,6 @@
 
 ## Contact Us
 
-> totallyrealemailaddress@totallyrealwebsite.org
+> [totallyrealemailaddress@totallyrealwebsite.org](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/hehe.md)
 
 --------------------------------------------------------------------------------------
