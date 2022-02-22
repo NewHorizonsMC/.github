@@ -4,6 +4,8 @@
 
 ###### If you want to find out more about a topic, click on the link for each header^^
 
+--------------------------------------------------------------------------------------
+
 ## [Who are we?](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/whoAreWe.md)
 > We are a semi-vanilla Minecraft server that has a small, established, mature and friendly community of Minecraft players.
 
@@ -23,3 +25,18 @@
 
 ![creativeWorldParkour](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/creativeWorldParkour.png)
 
+## New Horizons SMP Wiki
+
+> Venture through here to be guided through some quick how-to's and extra info!
+
+## [Dynmap](http://newhorizonssmp.minecraft.best:8100/)
+
+> Take a look at the world through a top-down or isometric view!
+
+## About Us
+
+> Shows our current staff teams and some quick introductions.
+
+## Contact Us
+
+> totallyrealemailaddress@totallyrealwebsite.org
