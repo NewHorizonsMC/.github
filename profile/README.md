@@ -1,6 +1,6 @@
 # New Horizons SMP
 
-![newHorizons_spawn](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/spawnAtNight.png)
+![newHorizonsSpawn](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/spawnAtNight.png)
 
 ###### If you want to find out more about a topic, click on the link for each header^^
 
@@ -14,3 +14,5 @@
 ## [Community & Discord](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/communityAndDiscord.md)
 
 > Interested in joining? Click the link above to get started.
+
+![creativeWorldParkour](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/creativeWorldParkour.png)
