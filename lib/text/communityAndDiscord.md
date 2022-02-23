@@ -14,3 +14,7 @@ Keep in mind that we take great care in looking at these whitelist applications 
 
 Ready to join? Here's the [discord link](https://discord.gg/BG33g88QVk)
 > Link not above working? Here's the direct link: https://discord.gg/BG33g88QVk
+
+------
+###### [Back to Home](https://github.com/NewHorizonsMC/)
+------
