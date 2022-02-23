@@ -39,7 +39,7 @@
 
 > Take a gander aat some screenshots from the server, inlduding players' bases and event builds!
 
-## About Us
+## [About Us](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/staffPage.md)
 
 > Shows our current staff teams and some quick introductions.
 
