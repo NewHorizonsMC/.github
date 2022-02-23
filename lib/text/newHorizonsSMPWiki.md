@@ -4,11 +4,12 @@ Here you will learn how to navigate the discord and the minecraft server.
 Let's start off wit the frequently ask questions; click below to be taken to the FAQ page.
 
 ### Table of Contents
-##### 1. [Introduction](# 1. INTRODUCTION__________________________________________)
+##### 1. [Introduction](#1.-introduction)
 
 ## [FAQ Page](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/faq.md)
 
-# 1. INTRODUCTION__________________________________________
+# 1. INTRODUCTION
+__________________________________________
 
 Welcome to the New Horizons Minecraft SMP server! 
 In this guide we will explain everything you need to know about the discord and minecraft server, if you need some clarification or have additional questions check the FAQ or ask a staff member.
