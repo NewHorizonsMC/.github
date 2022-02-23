@@ -15,4 +15,4 @@ The New Horizons Server has always and will always be an SMP Server. We use Plug
 
 ## Enchanced Vanilla
 
-We use some plugins and datapacks to enchance the gameplay and improve some in game tasks and experiences. If you're interested seeing a quick list of the plugins and datapacks we use, [click here](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/pluginsAndDatapacks.md)
+We use some plugins and datapacks to enchance the gameplay and improve some in game tasks and experiences. If you're interested seeing a quick list of the plugins and datapacks we use, [click here](https://github.com/NewHorizonsMC/.github/wiki#6-plugins)
