@@ -166,74 +166,95 @@ Here is a list of some of those plugins:
 + World Guard - Allows us to tweak and disable various gameplay features of Minecraft in specific areas.
 
 ## 7. FAQ
-   7.1 Server FAQ
-What version is the server on?
-1.18
-What is the server IP?
-The server ip is newhorizonssmp.minecraft.best
-Can I play on the server if I have a cracked version of the game?
-No. You need a legitimate copy of Minecraft java edition.
-What is the mob despawn Radius?
-96 - 28
-Can I have the world seed?
-No, this is a survival server, knowing the seed would not be fair to everyone! Knowing the seed could be exploited to gain resources unfairly.
-Can I stream on New Horizons?
-Yes, you can! Check out #🎥streams-and-uploads! If you join a voice channel while streaming, make sure everyone who is in the voice chat is aware.
-When will you update to Minecraft X.X.X?
-We are always aware of the latest Minecraft versions, and we are watching the snapshot videos to see how it would work for our server. We can't update to the latest Minecraft version until all the backend stuff that keeps the server running smoothly is updated, so please don't ask to update when its released. We will update if and when we are ready.
-When do you reset the world?
-We are a community-driven survival game. We want to ensure the community has as much a say in how this server runs as the staff team. Big decisions like world resets will be put up for a vote for all community members. But we do usually go for 9 months to a year per world, updates depending.
-My friend would like to join, what do I do?
-If one of your friends wants to apply to the server, send them our whitelist form (https://forms.gle/dGWdqRZU13Ue95NP6) or reach out to the @Recruitment Team
 
+### 7.1 Server FAQ
 
-Can I appeal a ban?
-Yes, you can always appeal a ban, we feel everyone has the opportunity to change and grow and are willing to hear you out. Just send a DM to @NewHorizonsMC
-Is there a public XP farm?
-Not Currently!
-Is there a community marketplace?
-The market place is not a specific area. Instead players are allowed to set up shops along the main road going west from spawn.
-Can I /set home?
-No, the only teleportation we have is /spawn. We try and stay as close to vanilla as possible.
-Are we allowed to use TNT dupers?
-Dupers that do not give any saveable items are allowed, but please do not leave your TNT dupers running non-stop, they do cause lag.
-Can we use auto clickers?
-You are allowed to use an auto clicker for AFK farms, but not one that auto targets, during any games or events or against other players.
-How do I become a staff member?
-Check out #🤝join-staff
+**What version is the server on?**
+> 1.18
+
+**What is the server IP?**
+> The server ip is listed in the 📂server-info  channel in discord.
+
+**Can I play on the server if I have a cracked version of the game?**
+> No. You need a legitimate copy of Minecraft java edition.
+
+**What is the mob despawn Radius?**
+> 128 hard - 32 soft 
+
+**Can I have the world seed?**
+> No, this is a survival server, knowing the seed would not be fair to everyone! Knowing the seed could be exploited to gain resources unfairly.
+
+**Can I stream on New Horizons?**
+> Yes, you can! Check out 🎥streams-and-uploads in discord! If you join a voice channel while streaming, make sure everyone who is in the voice chat is aware.
+
+**When will you update to Minecraft X.X.X?**
+> We are aware always aware of the latest Minecraft versions, and we are watching the snapshot videos to see how it would work for our server. We can't update to the latest Minecraft version until all the backend stuff that keeps the server running smoothly is updated, so please don't ask to update when its released. We will update if and when we are ready.
+
+**When do you reset the world?**
+> We are a community-driven survival game. We want to ensure the community has as much a say in how this server runs as the staff team. Big decisions like world resets will be put up for a vote for all community members. But we do usually go for 9 months to a year per world, updates depending.
+
+**My friend would like to join, what do I do?**
+> If one of your friends wants to apply to the server, send them our whitelist form (https://forms.gle/dGWdqRZU13Ue95NP6) or reach out to the @Recruitment Team 
+
+**Can I appeal a ban?**
+> Yes, you can always appeal a ban, we feel everyone has the opportunity to change and grow and are willing to hear you out. Just send a DM to @NewHorizonsMC
+
+**Is there a public XP farm?**
+> Not Currently!
+
+**Is there a community marketplace?**
+> The market place is not a specific area. Instead players are allowed to set up shops along the main road going west from spawn.
+
+**Can I /set home?**
+> No, the only teleportation we have is /spawn. We try and stay as close to vanilla as possible.
+
+**Are we allowed to use TNT dupers?**
+> Dupers that do not give any saveable items are allowed, but please do not leave your TNT dupers running non-stop, they do cause lag.
+
+**Can we use auto clickers?**
+> You are allowed to use an auto clicker for AFK farms, but not one that auto targets, during any games or events or against other players.
+
+**How do I become a staff member?**
+> Check out #🤝join-staff in discord
+
+---------------------------------------------------------------------------------------------------------------
+
 
 
 ### 7.2 Plugins FAQ
 
-This section explain how to use the plugins listed in 6. PLUGINS section, and some additional commands, along with some FAQ
+> This section explain how to use the plugins listed in 6. PLUGINS section, and some additional commands, along with some FAQ
 
-/ad - Will give a clickable link to our shop advertisement form. Needs Update 
-/map - Will give a clickable link to dynmap. Now updated! 
-/phantoms - Turns phantoms spawning off for only you. 
-playerlist - in #💬in-game-chat will show a list of all current IG players 
-/w PLAYERNAME [MESSAGE] - /w /pm /t /m and a username will send a private message to that user. type /r MESSAGE to reply. 
-/rules - Will show all our community rules. /rules # will show that page number. Needs Update 
-/seen - This allows you to check the last time a player was online. 
-/shopapp - Will give a clickable link to our shop application form. Needs Update 
-/sit, /lay, /crawl - Allows players to emote in-game. 
-/skull- Turn another player's skull into your current head. 
-/spawn - will teleport you to spawn within 8 seconds as long as you aren't moving, flying, swimming, or being attacked. You must be in the overworld. 
-/trigger ch_toggle - enable the coordinate hud on your screen (type again to disable). 
-/party - gives you a display panel with options to handle your partychat. Create, leave or disband parties here.
++ /ad - Will give a clickable link to our shop advertisement form. Needs Update 
++ /map - Will give a clickable link to dynmap. Now updated! 
++ /phantoms - Turns phantoms spawning off for only you. 
++ playerlist - in #💬in-game-chat will show a list of all current IG players 
++ /w PLAYERNAME [MESSAGE] - /w /pm /t /m and a username will send a private message to that user. type /r MESSAGE to reply. 
++ /rules - Will show all our community rules. /rules # will show that page number. Needs Update 
++ /seen - This allows you to check the last time a player was online. 
++ /shopapp - Will give a clickable link to our shop application form. Needs Update 
++ /sit, /lay, /crawl - Allows players to emote in-game. 
++ /skull- Turn another player's skull into your current head. 
++ /spawn - will teleport you to spawn within 8 seconds as long as you aren't moving, flying, swimming, or being attacked. You must be in the overworld. 
++ /trigger ch_toggle - enable the coordinate hud on your screen (type again to disable). 
++ /party - gives you a display panel with options to handle your partychat. Create, leave or disband parties here.
 
 Why is there no grave when I die from falling? 
-The graves feature of the server only spawns a grave when you die from combat deaths, either by a player or a mob.
- Do certain items despawn faster? 
-Yes, but only items that are commonly tossed on the ground or left while mining or from farms that commonly overfill and aren't turned off. Those items are: Stone, Cobblestone, Dirt, Grass blocks, Netherrack, Bone Meal, Melon Slice, Pumpkin, Ender Pearl.
+> The graves feature of the server only spawns a grave when you die from combat deaths, either by a player or a mob.
+Do certain items despawn faster? 
+
+> Yes, but only items that are commonly tossed on the ground or left while mining or from farms that commonly overfill and aren't turned off. Those items are: Stone, Cobblestone, Dirt, Grass blocks, Netherrack, Bone Meal, Melon Slice, Pumpkin, Ender Pearl.
 These items will despawn after 15 seconds to help with lag optimization. 
 
 How do I put a marker on the dynmap? 
-You just need a sign of any type of wood in-game to mark the dynmap.
+> You just need a sign of any type of wood in-game to mark the dynmap.
 
-The icon can be selected from this list here:
+> The icon can be selected from this list here:
 
-To remove the marker just break the sign
+> To remove the marker just break the sign
+
 Can I /set home? 
-No, the only teleportation we have is /spawn (while in the overworld). We try to stay as close to vanilla as possible. 
+> No, the only teleportation we have is /spawn (while in the overworld). We try to stay as close to vanilla as possible.
+
 What's the mob head drop chances?
-Check out the full details on the More Mob Heads plugin here: https://bit.ly/31lPvNO
+> Check out the full details on the More Mob Heads plugin here: https://bit.ly/31lPvNO
