@@ -27,7 +27,7 @@
 
 --------------------------------------------------------------------------------------
 
-## [New Horizons SMP Wiki](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/newHorizonsSMPWiki.md)
+## [New Horizons SMP Wiki](https://github.com/NewHorizonsMC/.github/wiki)
 
 > Venture through here to be guided through some quick how-to's and extra info!
 
