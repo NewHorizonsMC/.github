@@ -6,21 +6,24 @@ Let's start off wit the frequently ask questions; click below to be taken to the
 ### Table of Contents
 ##### 1. [Introduction](#1.-introduction)
 ##### 2. [Rules](#2.-rules)
-###### 2.1 [Common Courtesy](###2.1-common-courtesy)
+###### &nbsp;&nbsp;&nbsp;&nbsp;2.1 [Common Courtesy](###2.1-common-courtesy)
+###### &nbsp;&nbsp;&nbsp;&nbsp;2.2 [No Abuse]
+###### &nbsp;&nbsp;&nbsp;&nbsp;2.3
+###### &nbsp;&nbsp;&nbsp;&nbsp;2.4
+###### &nbsp;&nbsp;&nbsp;&nbsp;2.5
 
 ## [FAQ Page](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/faq.md)
 
-# 1. INTRODUCTION
+## 1. INTRODUCTION
 
 Welcome to the New Horizons Minecraft SMP server! 
 In this guide we will explain everything you need to know about the discord and minecraft server, if you need some clarification or have additional questions check the FAQ or ask a staff member.
 
 First off all you need to get familiar with the server rules, so we are going to start with that.
 
+-------------------------------------------------------------------------------------------------------
 
-
-
-# 2. RULES
+## 2. RULES
 
    ### 2.1 Common courtesy
 
@@ -29,7 +32,7 @@ First off all you need to get familiar with the server rules, so we are going to
 Do not do any of the following:
 - Talking about racial, political, homophobic, or religious topics - Griefing other players builds/bases - Building too close to other players. (If you think you may be close to someone reach out on Discord)
 
-   2.2 Co abuse
+### 2.2 No abuse
 
 Don’t do any of the following:
 - Use hacked clients 
@@ -38,63 +41,52 @@ Don’t do any of the following:
 - Use light exploits
 - Duping machines are not allowed (except for TNT dupers)
 
-   2.3 No unwanted PvP
+### 2.3 No unwanted PvP
 
 - Don’t attack a player without consent to fight
 - Don’t set up intentional traps that may kill a player
 
   
 
-   2.4  No stealing
+### 2.4  No stealing
 
 - Do not borrow items from players without permission
 - Do not temporarily take a item from a shop and then replacing it
 - No theft of any kind
 
-   2.5 Encourage the market
-We want to encourage and build the economy on the server to keep it strong and useful to players
+### 2.5 Encourage the market
+ - We want to encourage and build the economy on the server to keep it strong and useful to players
+
+--------------------------------------------------------------------------------------------------------
+
+## 3. STAFF TEAM  & STAFF SUPPORT
+
+### 3.1 Meet the staff  members
+
+> On the New Horizons server we have multiple staff ranks. 
+> At the top we have the Owner: Elli. Below her, we have our Admin: rainbowmanure.
+> Then there are the Moderators: Lmella, LOADSAMONEY, Erased, Count_Halcyon and Lolek_Molek. and Helpers: Joah06 and Sheptheboss
+> More information about our staff team and what each role does can be found in the discord channel #our-staff
 
 
+### 3.2 Staff Support
 
+> Do you have any questions or need help from the staff team? You can open a ticket in the discord channel #support-tickets
+> What is a Support Ticket? When you open a support ticket it creates a new, temporary, channel in the Discord Server. This is your support ticket. It's a channel that is not visible to anyone except for the staff team and you. 
 
-3. STAFF TEAM  & STAFF SUPPORT
+We've got 5 different kinds of support tickets that you can open. They should be selected based on what you might need help with:
 
-   3.1 Meet the staff  members
+ - Tech Team Ticket - Technical issues/bugs - Questions about plugins 
+ - Moderators Ticket - Potentially lost or stolen items - Inviting a friend to the server - Whitelisting after inactivity - General server questions 
+ - Admin Team Ticket - Player complaints/reports - Reporting potential rule violations 
+ - Owner Ticket - Questions about Donations - Getting Donation Roles after Donating`
 
-On the New Horizons server we have multiple staff ranks. 
+> How do I open a Support Ticket? To open a support ticket you select which part of the staff you'd like to contact from the list above. Find the embedded message from the Ticket Tool Bot that refers to that kind of ticket and click on the mail emoji underneath that message.
 
-At the top we have the Owner: Elli. Below her, we have our Admin: Rainbowmanure.
+## 4. SERVER INFO
 
-Then there are the Moderators: Lmella, LOADSAMONEY, Erased, Count_Halcyon and Lolek_Molek. and Helpers: Joah06 and Sheptheboss
-
-
-More information about our staff team and what each role does can be found in the discord channel #our-staff
-
-
-   3.2 Staff Support
-
-Do you have any questions or need help from the staff team? You can open a ticket in the discord channel #support-tickets
-
-What is a Support Ticket? When you open a support ticket it creates a new, temporary, channel in the Discord Server. This is your support ticket. It's a channel that is not visible to anyone except for the staff team and you. 
-
-We've got 5 different kinds of support tickets that you can open. They should be selected based on what you might need help with; 
-
-Tech Team Ticket - Technical issues/bugs - Questions about plugins 
-
-Moderators Ticket - Potentially lost or stolen items - Inviting a friend to the server - Whitelisting after inactivity - General server questions 
-
-Admin Team Ticket - Player complaints/reports - Reporting potential rule violations 
-
-Owner Ticket - Questions about Donations - Getting Donation Roles after Donating 
-
-How do I open a Support Ticket? To open a support ticket you select which part of the staff you'd like to contact from the list above. Find the embedded message from the Ticket Tool Bot that refers to that kind of ticket and click on the mail emoji underneath that message.
-
-
-4. SERVER INFO ____________________________________________
-
-The New Horizons Discord server can be confusing at first glance. Trust us when we say that it doesn’t take long to get familiar with what all the channels are and where you can find all the information! 
-
-What follows is a brief list of the most important or useful channels
+> The New Horizons Discord server can be confusing at first glance. Trust us when we say that it doesn’t take long to get familiar with what all the channels are and where you can find all the information! 
+> What follows is a brief list of the most important or useful channels
 
 - #community-rules
 - #server-info
@@ -104,7 +96,7 @@ What follows is a brief list of the most important or useful channels
 - #support-tickets
 - #market-info
 
-Reach out to the community!
+> Reach out to the community!
 
 - #welcome - A place where new players are greeted by the community
 - #in-game-chat - Communicate with people who are currently in-game!
@@ -114,82 +106,66 @@ Reach out to the community!
 - #suggest-and-discuss - suggest adding/changing certain things, and let the community vote
 
 
+## 5. JOINING THE GAME
 
+> Now to the part you (probably) wanted to know. 
+> To join the game you have to be whitelisted first, which is done when your application is accepted and join the discord server.
 
+The server IP is ```newhorizonssmp.minecraft.best```
+There is also a [dynmap](http://newhorizonssmp.minecraft.best:8100/#) plugin which lets you see the whole map, and add markers.
 
+### 5.1 portal hub
 
-5. JOINING THE GAME______________________________________
+> The portal hub is the connecting place to different worlds in the server, which are the SMP, creative and event worlds. 
+> To enter these worlds, simply walk up to the ship, and step on the amethyst blocks.
 
-Now to the part you (probably) wanted to know. 
+### 5.2 SMP world
 
-To join the game you have to be whitelisted first, which is done when your application is accepted and join the discord server.
+> This is where you will spawn when you first join the game. Right behind you will be a portal that leads to the portal hub. Towards the west is the main road. It goes that way, because the border expands in the west direction at a certain pace. 
+> Along the road you will find a couple of places which have special villagers in them. They trade event tokens, which can be obtained by participating in events, for special items.
+> Player shops will also be around the main road.
+> Also west, near spawn, is the event island, in which will be information about current/future events.
+> Also on the island is the community storeroom, which contains any items donated by the many players which can be used on builds that are utilized by the community.
 
-The server IP is newhorizonssmp.minecraft.best
-There is also a dynmap plugin which lets you see the whole map, and add markers: http://newhorizonssmp.minecraft.best:8100/#
+  
+### 5.3 Creative world
 
-   5.1 portal hub
+> In the creative world, you are free to build anything, just keep it reasonably away from others builds and keep it family friendly.
 
-The portal hub is the connecting place to different worlds in the server, which are the SMP, creative and event worlds. 
-To enter these worlds, simply walk up to the ship, and step on the amethyst blocks.
+### 5.4 Event world
 
-   5.2 SMP world
+> Like the name suggests, this is the world where any events that require a separate map are held (for example: a treasure hunt event will have a treasure hunt map, a parkour event will have a parkour map…). 
 
-This is where you will spawn when you first join the game. Right behind you will be a portal that leads to the portal hub. Towards the west is the main road. It goes that way, because the border expands in the west direction at a certain pace. 
+## 6. PLUGINS
 
-
-Along the road you will find a couple of places which have special villagers in them. They trade event tokens, which can be obtained by participating in events, for special items.
-Player shops will also be around the main road.
-
-
-
-Also west, near spawn, is the event island, in which will be information about current/future events.
-
-Also on the island is the community storeroom, which contains any items donated by the many players which can be used on builds that are utilized by the community.
-
-
-
-
-
-   
-   5.3 Creative world
-
-In the creative world, you are free to build anything, just keep it reasonably away from others builds and keep it family friendly.
-
-
-
-   5.4 Event world
-
-Like the name suggests, this is the world where any events that require a separate map are held (for example: a treasure hunt event will have a treasure hunt map, a parkour event will have a parkour map…). 
-
-
-6. PLUGINS_________________________________________________
-On New Horizons we have a collection of plugins and datapacks to enhance your experience on the server. The use of some of these plugins is in the FAQ section of this guide.
+> On New Horizons we have a collection of plugins and datapacks to enhance your experience on the server. The use of some of these plugins is in the FAQ section of this guide.
 Here is a list of some of those plugins:
 
-Armor Statues - Adds a unique book to the game, which allows players to alter the properties of armor stands in survival.
-Coords hud - Adds coordinates and a clock to a player's action bar. 
-CoreProtect - Adds moderation commands and helps track griefing through logs. 
-Custom Nether Portals - Players are able to ignite nether portals with any shape and size they’d like. 
-DiscordSRV - Allows players to chat ingame with players on Discord. #in-game-chat Dynmap- Allows players to view the live map of the Minecraft server similar to Google Maps. 
-Essentials Chat - Formatting for player and staff ranks. 
-EssentialsX - Adds world protection and moderator control. 
-Graves - When a player dies to a mob (excluding while in the air or by a creeper), a head holding their items will spawn. If they die due to a player, it will drop their head. 
-GSit - Allows players sit, lay down and crawl. 
-More Mob Head Drops - Adds a chance to receive a head upon killing a mob. 
-Multiverse Core - Holds the files for the different worlds. For example: Creative, Lobby and Event worlds. 
-Multiverse Inventories - Makes sure inventories are kept separate for the creative and SMP world. 
-Multiverse Portals - Allows us to create portals to travel between multiverse worlds. 
-Nerf Phantoms - Adds a command to remove phantom spawning for individual players. 
-PartyChat - Gives the ability to create a groupchat to message specific players 
-Player Head Drops - A player will drop their head when killed by another player. The head will display who the killer was.
-Protocol Lib - Necessary Plugin for other plugins to build upon. (edited)
-Set the Spawn - Adds a spawn in the overworld. 
-Single Player Sleep- Allows one player to skip night by sleeping. 
-Straight to Shapeless - Craft items such as paper and shulker boxes directly in a player's 2x2 crafting box. 
-Universal Dye - Allows a player to dye any dyeable block to another colour, even if it's already another colour. 
-Wandering Trader- Adds mini blocks to the Wandering Trader’s trades. 
-World Guard - Allows us to tweak and disable various gameplay features of Minecraft in specific areas.
-7. FAQ______________________________________________________
++ Armor Statues - Adds a unique book to the game, which allows players to alter the properties of armor stands in survival.
++ Coords hud - Adds coordinates and a clock to a player's action bar. 
++ CoreProtect - Adds moderation commands and helps track griefing through logs. 
++ Custom Nether Portals - Players are able to ignite nether portals with any shape and size they’d like. 
++ DiscordSRV - Allows players to chat ingame with players on Discord. #in-game-chat Dynmap- Allows players to view the live map of the Minecraft server similar to Google Maps. 
++ Essentials Chat - Formatting for player and staff ranks. 
++ EssentialsX - Adds world protection and moderator control. 
++ Graves - When a player dies to a mob (excluding while in the air or by a creeper), a head holding their items will spawn. If they die due to a player, it will drop their head. 
++ GSit - Allows players sit, lay down and crawl. 
++ More Mob Head Drops - Adds a chance to receive a head upon killing a mob. 
++ Multiverse Core - Holds the files for the different worlds. For example: Creative, Lobby and Event worlds. 
++ Multiverse Inventories - Makes sure inventories are kept separate for the creative and SMP world. 
++ Multiverse Portals - Allows us to create portals to travel between multiverse worlds. 
++ Nerf Phantoms - Adds a command to remove phantom spawning for individual players. 
++ PartyChat - Gives the ability to create a groupchat to message specific players 
++ Player Head Drops - A player will drop their head when killed by another player. The head will display who the killer was.
++ Protocol Lib - Necessary Plugin for other plugins to build upon. (edited)
++ Set the Spawn - Adds a spawn in the overworld. 
++ Single Player Sleep- Allows one player to skip night by sleeping. 
++ Straight to Shapeless - Craft items such as paper and shulker boxes directly in a player's 2x2 crafting box. 
++ Universal Dye - Allows a player to dye any dyeable block to another colour, even if it's already another colour. 
++ Wandering Trader- Adds mini blocks to the Wandering Trader’s trades. 
++ World Guard - Allows us to tweak and disable various gameplay features of Minecraft in specific areas.
+
+## 7. FAQ
    7.1 Server FAQ
 What version is the server on?
 1.18
@@ -227,7 +203,7 @@ How do I become a staff member?
 Check out #🤝join-staff
 
 
-   7.2 Plugins FAQ
+### 7.2 Plugins FAQ
 
 This section explain how to use the plugins listed in 6. PLUGINS section, and some additional commands, along with some FAQ
 
@@ -250,9 +226,6 @@ The graves feature of the server only spawns a grave when you die from combat de
  Do certain items despawn faster? 
 Yes, but only items that are commonly tossed on the ground or left while mining or from farms that commonly overfill and aren't turned off. Those items are: Stone, Cobblestone, Dirt, Grass blocks, Netherrack, Bone Meal, Melon Slice, Pumpkin, Ender Pearl.
 These items will despawn after 15 seconds to help with lag optimization. 
-
-
-
 
 How do I put a marker on the dynmap? 
 You just need a sign of any type of wood in-game to mark the dynmap.
