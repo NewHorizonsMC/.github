@@ -25,17 +25,75 @@ Below you will find short introductions for every member of the staff team, alon
 
 ## Owners
 ### elli_h
+Hi there! 
+I’m loving all your introductions, so I wanted to join in and introduce myself too 
+
+I’m Elli, it’s so nice to meet you!
+I use she/her pronouns and I'm from Sweden (Yea, I know, it's the country of IKEA) I love reading and writing, and spend as much time as I can doing just that. Currently I’m a full-time student, so like many of you, I’ve lived the struggles and joys of online classes...
+I'm the owner of this little server and have been with this community for almost 1.5 years :Penguin_Heart: I'll usually be marked as “offline” on Discord, but most often I am technically online so please don’t hesitate to contact me if you have any questions or just feel like chatting! 
+
+My hobbies include: running around spawn, being locked in block-boxes when AFK, talking about poetry for too long, hiking, breaking redstone contraptions, and humming the same song over and over in voice chats
+So that's me, I'm excited to meet and get to know you all in game! 
+
+Oh, and my favourite colour is pink
+
 ## Admins
 ### rainbowmanure
+yo
+
 ## Moderators
 ### Count_Halcyon
+Hello There
+I be Callum, you can call me that or Count
+My pronouns are he/him
+Purple be the best colour
+Favourite games are open world rpgs (Witcher,Fallen Order,Skyrim,Shadow of War etc)
+
 ### ErasedLives
+Hi everyone! :Penguin_Waving_Hearts: 
+I'm Erased and I am one of the moderators (as you can see from my fancy blue name).
+I am bi and I use any pronouns, so feel free to switch them up. :Penguin_Heart: 
+Also, I live in the Netherlands :)
+I like playing minecraft and a variation of other games, but i mostly just enjoy playing games with other people and getting to know new people 
+
 ### L0ADSAM0NEY
+$
+
 ### lmella
+\[inactive\]
+
 ### lolek_molek
+Hi
+I am Lolek Molek, some even call me The Lolek for some reason 
+I am the only Slovenian not banned from this server (so far) which i consider a achievment.
+My pronouns are he/him
+I like the lime colour
+My favourite games are the open world type (Horion zero dawn, MC, witcher...)
+
 ### Twoteaspoon
+Hello,
+I am Twoteaspoon.
+ironically, I don't really like tea that much.
+I like ice-cream though, and one of my dreams is to have an ice cream flavour named after me.
+I spend most of my time, roaming around the map, building stuff in creative, bothering people and fumbling with redstone.
+I don't have a fixed hobby but I keep myself occupied with things like reading, writing, cooking, eating, football, daydreaming etc etc
+you'll often see me doing mainly 2 things, writing stuff that doesn't makes sense and dying a lot.
+and If you ask me why I have so many death counts,
+simply because I'm making up for all the opportunities I missed in real life.
+It's very nice to meet you! 
+
 ## Helpers
 ### Joah06
+Heya everyone, let me just add an introduction here :)
+My name is Joah and I'm 15 years old. I'm from the Netherlands and I use he/him pronouns. 
+Some of my hobbies include playing the piano, bouldering, playing some videogames (mostly minecraft) and listening to music. My favourite music genres are rock and metal and my favourite colour is light blue/cyan.
+
 ### Sheptheboss
+Yo yo, I guess I’m up next. My name is Shep, but my real name is Logan, don’t care if you call me either. 
+I’m 19 and I’m a filthy American. I use he him pronouns but don’t care what you call me.
+I pretty much only play video games in my free time. Some of my favorites are Apex, Destiny 2, Valorant, and other shooters, but I also enjoy a good indie/single player game now and then.
+I also listen to a lot of music, favorite genres being rap and rock, and my favorite colors being royal purple and black
+
 ## Tech Team
 ### Xakotani
+\[inactive\]
