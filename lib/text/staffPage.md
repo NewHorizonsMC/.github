@@ -37,9 +37,13 @@ So that's me, I'm excited to meet and get to know you all in game!
 
 Oh, and my favourite colour is pink
 
+![elli_h](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/elli_h.png)
+
 ## Admins
 ### rainbowmanure
 yo
+
+![rainbowmanure](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/rainbowmanure.png)
 
 ## Moderators
 ### Count_Halcyon
@@ -49,15 +53,21 @@ My pronouns are he/him
 Purple be the best colour
 Favourite games are open world rpgs (Witcher,Fallen Order,Skyrim,Shadow of War etc)
 
+![count_halcyon](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/count_haclyon.png)
+
 ### ErasedLives
 Hi everyone! :Penguin_Waving_Hearts: 
 I'm Erased and I am one of the moderators (as you can see from my fancy blue name).
 I am bi and I use any pronouns, so feel free to switch them up. :Penguin_Heart: 
 Also, I live in the Netherlands :)
-I like playing minecraft and a variation of other games, but i mostly just enjoy playing games with other people and getting to know new people 
+I like playing minecraft and a variation of other games, but i mostly just enjoy playing games with other people and getting to know new people
+
+![erasedlives](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/erasedlives.png)
 
 ### L0ADSAM0NEY
 $
+
+![l0adsam0ney](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/l0adsam0ney.png)
 
 ### lmella
 \[inactive\]
@@ -69,6 +79,8 @@ I am the only Slovenian not banned from this server (so far) which i consider a 
 My pronouns are he/him
 I like the lime colour
 My favourite games are the open world type (Horion zero dawn, MC, witcher...)
+
+![lolek_molek](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/lolek_molek.png)
 
 ### Twoteaspoon
 Hello,
@@ -82,11 +94,15 @@ and If you ask me why I have so many death counts,
 simply because I'm making up for all the opportunities I missed in real life.
 It's very nice to meet you! 
 
+![twoteaspoon](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/twoteaspoon.png)
+
 ## Helpers
 ### Joah06
 Heya everyone, let me just add an introduction here :)
 My name is Joah and I'm 15 years old. I'm from the Netherlands and I use he/him pronouns. 
 Some of my hobbies include playing the piano, bouldering, playing some videogames (mostly minecraft) and listening to music. My favourite music genres are rock and metal and my favourite colour is light blue/cyan.
+
+![joah06](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/joah06.png)
 
 ### Sheptheboss
 Yo yo, I guess I’m up next. My name is Shep, but my real name is Logan, don’t care if you call me either. 
@@ -94,6 +110,10 @@ I’m 19 and I’m a filthy American. I use he him pronouns but don’t care wha
 I pretty much only play video games in my free time. Some of my favorites are Apex, Destiny 2, Valorant, and other shooters, but I also enjoy a good indie/single player game now and then.
 I also listen to a lot of music, favorite genres being rap and rock, and my favorite colors being royal purple and black
 
+![sheptheboss](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/sheptheboss.png)
+
 ## Tech Team
 ### Xakotani
 \[inactive\]
+
+![xakotani](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/xakotani.png)
