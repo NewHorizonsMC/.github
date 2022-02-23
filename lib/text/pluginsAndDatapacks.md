@@ -17,3 +17,5 @@ We try to keep our server as close to the vanilla experience as possible. The pl
 + Nerf Phantoms
 
 + Player Head Drops
+
+Care for a more detailed list? [click here](https://github.com/NewHorizonsMC/.github/wiki#6-plugins)
