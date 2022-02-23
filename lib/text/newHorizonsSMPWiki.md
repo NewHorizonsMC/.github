@@ -4,13 +4,27 @@ Here you will learn how to navigate the discord and the minecraft server.
 Let's start off wit the frequently ask questions; click below to be taken to the FAQ page.
 
 ### Table of Contents
-##### 1. [Introduction](#1.-introduction)
-##### 2. [Rules](#2.-rules)
+##### 1. [Introduction](##1.-introduction)
+##### 2. [Rules](##2.-rules)
 ###### &nbsp;&nbsp;&nbsp;&nbsp;2.1 [Common Courtesy](###2.1-common-courtesy)
 ###### &nbsp;&nbsp;&nbsp;&nbsp;2.2 [No Abuse]
 ###### &nbsp;&nbsp;&nbsp;&nbsp;2.3
 ###### &nbsp;&nbsp;&nbsp;&nbsp;2.4
 ###### &nbsp;&nbsp;&nbsp;&nbsp;2.5
+##### 3. [Staff Team & Staff Support](##3.-staf-team-&-staff-support)
+###### &nbsp;&nbsp;&nbsp;&nbsp;3.1
+###### &nbsp;&nbsp;&nbsp;&nbsp;3.2
+##### 4. [Server Info](##4.-server-info)
+##### 5. [Joining The Game](##5.-joining-the-game)
+###### &nbsp;&nbsp;&nbsp;&nbsp;5.1
+###### &nbsp;&nbsp;&nbsp;&nbsp;5.2
+###### &nbsp;&nbsp;&nbsp;&nbsp;5.3
+###### &nbsp;&nbsp;&nbsp;&nbsp;5.4
+##### 6. [Plugins](##6.-plugins)
+##### 7. [FAQ](##7.-faq)
+###### &nbsp;&nbsp;&nbsp;&nbsp;7.1
+###### &nbsp;&nbsp;&nbsp;&nbsp;7.2
+
 
 ## [FAQ Page](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/faq.md)
 
