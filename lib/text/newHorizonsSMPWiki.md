@@ -1,5 +1,5 @@
-# New Horizons SMP Wiki
-
+# ~~New Horizons SMP Wiki~~
+# Outdated/ no longer being used
 Here you will learn how to navigate the discord and the minecraft server.
 Let's start off wit the frequently ask questions; click below to be taken to the FAQ page.
 
