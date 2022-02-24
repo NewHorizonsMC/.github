@@ -1,5 +1,7 @@
 # New Horizons SMP
 
+![newHorizonsBanner](https://static.planetminecraft.com/files/banner/869255_3.gif)
+
 ![newHorizonsSpawn](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/spawnAtNight.png)
 
 ###### If you want to find out more about a topic, click on the link for each header^^
