@@ -1,3 +1,5 @@
+<!-- # New Horizons SMP ![newHorizonsBanner](https://static.planetminecraft.com/files/banner/869255_3.gif) -->
+
 # <p align="center"> New Horizons SMP</p>
 <p align="center">
   <img width="460" src="https://static.planetminecraft.com/files/banner/869255_3.gif" alt="newHorizonsBanner"></p>
