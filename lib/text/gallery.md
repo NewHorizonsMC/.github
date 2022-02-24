@@ -4,8 +4,8 @@ Here you will find some screenshots of the server, with the most recent season o
 Quick directory to jump between seasons:
 
 ## [Current Season](#current-season)
-## [Season 2](#season-2)
-## [Season 1](#season-1)
+## [Season 2](#season-2-1)
+## [Season 1](#season-1-1)
 
 # Current Season
 
