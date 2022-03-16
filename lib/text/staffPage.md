@@ -70,7 +70,7 @@ $
 ![l0adsam0ney](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/l0adsam0ney.png)
 
 ### lmella
-\[inactive\]
+\[Currently inactive\]
 
 ### lolek_molek
 Hi
@@ -114,6 +114,6 @@ I also listen to a lot of music, favorite genres being rap and rock, and my favo
 
 ## Tech Team
 ### Xakotani
-\[inactive\]
+\[Currently inactive\]
 
 ![xakotani](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/xakotani.png)
