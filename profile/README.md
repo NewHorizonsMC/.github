@@ -47,7 +47,7 @@
 
 > Shows our current staff teams and some quick introductions.
 
-## Contact Us
+## Join Us!
 
 > [totallyrealemailaddress@totallyrealwebsite.org](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/hehe.md)
 
