@@ -26,7 +26,6 @@ Below you will find short introductions for every member of the staff team, alon
 ## Owners
 ### elli_h
 Hi there! 
-I’m loving all your introductions, so I wanted to join in and introduce myself too 
 
 I’m Elli, it’s so nice to meet you!
 I use she/her pronouns and I'm from Sweden (Yea, I know, it's the country of IKEA) I love reading and writing, and spend as much time as I can doing just that. Currently I’m a full-time student, so like many of you, I’ve lived the struggles and joys of online classes...
