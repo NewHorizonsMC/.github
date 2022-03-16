@@ -113,6 +113,16 @@ I also listen to a lot of music, favorite genres being rap and rock, and my favo
 
 ## Tech Team
 ### Xakotani
-\[Currently inactive\]
+Greetings, humans. It is I, Xako!
+20 y/o, he/him and from Denmark 🇩🇰 
+
+It's been... heck i have no idea, a long time, but at this point whomever knows who i am should get veteran role if they haven't already...
+I'm this servers sole remaining 'Tech team' person. What does that role entail, you may ask? Great question, no one knows, not even me.
+I spend half my time creating problems and the other half finding solutions to those problems.
+And before you ask, no, i have absolutely **0** special permissions. If you want stuff fixed, go to a Helper or above.
+
+I'm either online 12 hours a day or completely gone for months on end, there's no in between.
+Some people may know me for my bad puns, Xako's Zoo (featuring Elli), the speedy pumpkin in creative, the tiny ducks, or my inability to finish any long-term projects.
+Others may not know me for any of those things. If you are one of the ones who do not (yet 😈 ) know, consider yourself blessed.
 
 ![xakotani](https://github.com/NewHorizonsMC/.github/blob/main/lib/screenshots/staffPortraits/xakotani.png)
