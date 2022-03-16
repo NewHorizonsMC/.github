@@ -49,6 +49,6 @@
 
 ## Join Us!
 
-> [totallyrealemailaddress@totallyrealwebsite.org](https://github.com/NewHorizonsMC/.github/blob/main/lib/text/hehe.md)
+> [This is our Discord Server](https://discord.gg/BG33g88QVk)
 
 --------------------------------------------------------------------------------------
