@@ -17,8 +17,6 @@ Meet the Staff!
 + [Helpers](#helpers)<br/>
 &nbsp;&nbsp; [Joah06](#joah06)<br/>
 &nbsp;&nbsp; [Sheptheboss](#sheptheboss)<br/>
-+ [Tech Team](#tech-team)<br/>
-&nbsp;&nbsp; [Xakotani](#xakotani)<br/>
 
 Below you will find short introductions for every member of the staff team, along with a complementary self portrait of the player.
 > See an typo or mistake? Feel free to reach out to us!
